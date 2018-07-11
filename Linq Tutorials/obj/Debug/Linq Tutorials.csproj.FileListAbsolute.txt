@@ -1,0 +1,6 @@
+C:\Shishir\Projects\Demo\Linq Tutorials\Linq Tutorials\bin\Debug\Linq Tutorials.exe.config
+C:\Shishir\Projects\Demo\Linq Tutorials\Linq Tutorials\bin\Debug\Linq Tutorials.exe
+C:\Shishir\Projects\Demo\Linq Tutorials\Linq Tutorials\bin\Debug\Linq Tutorials.pdb
+C:\Shishir\Projects\Demo\Linq Tutorials\Linq Tutorials\obj\Debug\Linq Tutorials.csprojResolveAssemblyReference.cache
+C:\Shishir\Projects\Demo\Linq Tutorials\Linq Tutorials\obj\Debug\Linq Tutorials.exe
+C:\Shishir\Projects\Demo\Linq Tutorials\Linq Tutorials\obj\Debug\Linq Tutorials.pdb
